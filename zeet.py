@@ -1,4 +1,7 @@
 import telebot
+import telegram
+import telepot
+import pyrogram
 
 API_TOKEN = '845406847:AAEeorUGW-0D3Vfv-iHxfjp7GFCl3HxdSCo'
 
